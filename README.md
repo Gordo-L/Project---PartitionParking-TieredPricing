@@ -1,4 +1,4 @@
-# -PartitionParking-TieredPricing
+# PartitionParking-TieredPricing
 共享单车管理优化策略研究（国创 创新训练 优秀）
 2020年03月 - 2021年06月 
 1. 分区定价想法新颖：基于共享单车杂乱停放的痛点，提出单车停放分区收费的想法，创新想法领先于各大共享单车APP的“禁停区”、“红包车”等试点。
